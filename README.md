@@ -1,2 +1,2 @@
 # Curso de Música
- Primeiro repositório
+ Primeiro repositório do curso de música
