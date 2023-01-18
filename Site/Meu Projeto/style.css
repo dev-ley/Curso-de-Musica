@@ -11,7 +11,8 @@ Body {
 main {
 
     background-color: white;
-    width: 500px 300px;
+    width: 800px;
+    height: 550px;
     border-radius: 10px;
     box-shadow: 5px 5px 5px #574C38;
      padding: 10px;
