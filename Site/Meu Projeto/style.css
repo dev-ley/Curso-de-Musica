@@ -6,22 +6,22 @@
 
 Body {
    
-    background-image: linear-gradient(to bottom, #6B3000, #EE9247, #EB6800);
+    background-image: linear-gradient(to bottom, #CDB3A2, #635E5B, #574C38);
 }
 main {
 
     background-color: white;
-    width: 600px;
+    width: 500px 300px;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px #6B3000;
+    box-shadow: 5px 5px 5px #574C38;
      padding: 10px;
     margin: auto;
 
 }
 h1 {
-    color: #461f00d2;
+    color: #635E5B;
     text-align: center;
-    text-shadow: 2px 2px 2px #4b220177;
+    text-shadow: 2px 2px 2px #292726e8;
 
 }
 
