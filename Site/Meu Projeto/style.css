@@ -21,7 +21,10 @@ Body {
     text-decoration: underline;
 
     }
+a::after {
+    
 
+}
 
 main {
 
