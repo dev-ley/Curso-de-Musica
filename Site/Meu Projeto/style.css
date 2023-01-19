@@ -42,29 +42,29 @@ main {
     width: 800px;
     height: 550px;
     border-radius: 10px;
-     padding: 10px;
+    padding: 10px;
     margin: auto;
 
 }
 
 nav{
-    box-shadow: 1px 1px 2px #574C38;
-
+box-shadow: 0px 0px 1px 1px #CDB3A2;
+border-radius: 10px;
 
 }
 
 nav > a {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
     padding-right: 20px;
-    margin-left: 50px;
+    margin-left: 70px;
 
 }
 h1 {
     color: #635E5B;
     text-align: center;
     text-shadow: 2px 2px 2px #292726e8;
-
+font-size: 2.2em;
 }
 
 h2 {
