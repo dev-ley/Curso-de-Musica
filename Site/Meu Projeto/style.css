@@ -8,7 +8,7 @@ header {
         width: 800px;
         height: auto;
         border-radius: 10px;
-        box-shadow: 5px 5px 5px #574C38;
+        box-shadow: 1px 1px 1px #574C38;
         padding: 10px;
         margin: auto auto 15px auto;
 
@@ -22,7 +22,7 @@ Body {
 }
     a {
 
-    color: rgb(150, 72, 0);
+    color: #964800;
     text-decoration: none;
     }
 
@@ -50,6 +50,7 @@ main {
 nav{
 box-shadow: 0px 0px 1px 1px #CDB3A2;
 border-radius: 10px;
+text-shadow: #1f1b14;
 
 }
 
@@ -58,13 +59,15 @@ nav > a {
     font-weight: bold;
     padding-right: 20px;
     margin-left: 70px;
+   
 
 }
 h1 {
-    color: #635E5B;
+    color: #a89e9a;
     text-align: center;
-    text-shadow: 2px 2px 2px #292726e8;
-font-size: 2.2em;
+    text-shadow: 2px 2px 0px #0c0b0be8;
+    font-size: 2.2em;
+    text-decoration: underline;
 }
 
 h2 {
@@ -74,7 +77,6 @@ color: #635E5B;
 p {
 
 text-align: justify;
-padding: 20px;
 
 }
 
